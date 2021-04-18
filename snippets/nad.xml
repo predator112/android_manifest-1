@@ -60,7 +60,6 @@
   <project path="external/motorola/faceunlock" name="android_external_motorola_faceunlock" remote="nad" />
 
   <!-- Frameworks -->
-  <project path="frameworks/hardware/interfaces" name="android_frameworks_hardware_interfaces" remote="nad" />
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="nad" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="nad" />
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="nad" />
